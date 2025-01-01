@@ -7,7 +7,7 @@
 # if it is more than that it will break the pattern.
 text = input()
 print()
-open('.png', 'w').write('')
+open('../../../../Documents/Codebook/Python Challenges/.png', 'w').write('')
 for each in range(7):
     if each == 0 or each == 6:
         print(' ' * 6 + '*' * 15)
